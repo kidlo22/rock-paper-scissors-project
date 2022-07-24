@@ -1,1 +1,1 @@
-# rock-paper-scissors-project
+In this project I will be demonstrating my knowledge of the Javascript language by creating a game through the console where a user is prompted to play against a computer in a five round game of rock paper scissors
